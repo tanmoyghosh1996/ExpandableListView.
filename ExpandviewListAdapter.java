@@ -32,7 +32,6 @@ public class ExpandviewListAdapter extends BaseExpandableListAdapter {
     public ExpandviewListAdapter(Context context, String[] parentHeader, String[] childHeader) {
         this.context = context;
         this.parentHeaders = parentHeader;
-        ;
         this.childHeader = childHeader;
     }
 
